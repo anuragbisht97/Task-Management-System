@@ -16,4 +16,4 @@
 
 6.Refresh your webpage.
 	Now onwards no need to interact with DB tables for anything until you remember
-	SUPER USER.
+	Super User.
