@@ -1,4 +1,4 @@
-FILES
+Files
 
 Task_Manager\app\Http\Controllers\Auth\RegisteredUserController.php
 
