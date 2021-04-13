@@ -14,7 +14,7 @@ class TaskFactory extends Factory
 		static $number = 1;
 
 		return [
-			'project_id' => rand(1,4),
+			'project_id' => rand(1,2),
 			'task_name' => $this->faker->name,
 			'task_id' =>  $number++,
 			'summary' => $this->faker->sentence(),
